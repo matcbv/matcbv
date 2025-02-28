@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Focado na carreira de desenvolvedor desde 2023.<br>📚 Sempre em constante aprendizado.<br>🎯 Metas: Minha principal meta é obter a oportunidade de reingressar no mercado de desenvolvimento.<br>🎲 Fato curioso: Tenho uma gradua  Já realizei cursos de astrofísica pela UFSC.</p>
+<p align="left">✨ Focado na carreira de desenvolvedor desde 2023.<br>📚 Sempre em constante aprendizado.<br>🎯 Metas: Minha principal meta é obter a oportunidade de reingressar no mercado de desenvolvimento.<br>🎲 Fato curioso: Já realizei cursos de astrofísica pela UFSC.</p>
 
 ###
 
